@@ -1,0 +1,25 @@
+.company-box{
+    text-align: right;
+}
+.company-title__wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.company-title__wrapper svg {
+    width: 45px;
+    height: 45px;
+    color: #ffc451;
+    margin-bottom: .5rem;
+}
+
+.company-title{
+    font-size: 3.6rem;
+    color: #151515;
+    font-weight: 700;
+    padding-right: .5rem;
+}
+.company-box__text{
+    color: #444444;
+    font-weight: 600;
+}

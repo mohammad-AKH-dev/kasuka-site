@@ -1,0 +1,55 @@
+.About-us__section{
+
+}
+.About-us__right-section{
+    text-align: right;
+}
+.About-us__title{
+
+   font-size: 2.8rem;
+   margin-bottom: 1rem;
+}
+.About-us__paragraph{
+   text-align: justify;
+   font-size: 1.6rem;
+   font-weight: 600;
+   margin-bottom: 2rem;
+   
+}
+.About-us__sub-text__wrapper{
+  display: flex;
+  align-items: center;
+  position: relative;
+
+}
+
+.About__us-sub-text{
+  font-weight: 600;
+  padding-right: 2.5rem;
+  margin-top: 2rem;
+}
+
+
+.About__us-sub-text.last-child{
+    padding: 0;
+    padding-top: 2rem;
+}
+
+.About-us__left-section{
+
+}
+
+.About-us__sub-text__wrapper svg {
+    font-size: 20px;
+    min-width: 20px;
+    min-height: 30px;
+    max-width: 20px;
+    color: #ffc451;
+    position: absolute;
+    top: 16px;
+}
+
+.About-us__img{
+   width: 100%;
+  
+}

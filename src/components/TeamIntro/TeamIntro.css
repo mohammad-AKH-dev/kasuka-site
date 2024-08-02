@@ -1,0 +1,49 @@
+.team-section{
+    background: url(https://hivalearn.ir/templates/kasuka/assets/img/testimonials-bg.jpg) fixed no-repeat;
+    background-size: cover;
+    background-position: 100%;
+    position: relative;
+    padding: 8rem;
+}
+
+.team-section:before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.team-detailes{
+    position: relative;
+    z-index: 2;
+    color: #fff;
+}
+.team-img__wrapper{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+.team-img__wrapper img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 6px solid rgba(255, 255, 255, 0.15);
+}
+
+.team-position{
+     
+}
+.team-name{
+    font-size: 2rem;
+}
+.team-job{
+   
+}
+.team-description{
+    color: #eee;
+    font-weight: 600;
+    margin-top: 3rem;;
+}

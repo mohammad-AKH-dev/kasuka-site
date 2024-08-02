@@ -1,0 +1,30 @@
+.company-section{
+  margin-top: 10rem;
+}
+.company-content__wrapper{
+
+}
+.company-content-right__section{
+
+}
+
+.company-content-right__section img {
+    width: 100%;
+}
+
+.company-content-left__section{
+    text-align: right;
+}
+.company-content-left__text{
+    color: #444444;
+    font-weight: 600;
+}
+
+.mx-w{
+    max-width: 57rem;
+    margin-bottom: 1rem;
+}
+
+.company-boxes__wrapper{
+   margin-top: 2.5rem;
+}

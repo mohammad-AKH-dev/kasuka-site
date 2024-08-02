@@ -1,0 +1,12 @@
+.services-section{
+    margin-top: 7rem;
+}
+.services-title__wrapper{
+    text-align: right;
+}
+.service-boxes__wrapper{
+    margin-top: 9rem;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 2.5rem;
+}
